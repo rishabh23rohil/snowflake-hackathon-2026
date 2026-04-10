@@ -115,6 +115,40 @@ The app should show:
 
 ---
 
+## Dashboard Screenshots
+
+### Country Rankings
+![Country Rankings](images/screenshots/tab01_country_rankings.png)
+
+### Outbreak Trends
+![Outbreak Trends](images/screenshots/tab02_outbreak_trends.png)
+
+### Vaccination Tracker
+![Vaccination Tracker](images/screenshots/tab03_vaccination.png)
+
+### Mobility Impact
+![Mobility Impact](images/screenshots/tab04_mobility.png)
+
+### Continental View
+![Continental View](images/screenshots/tab05_continental.png)
+
+### ML Forecast (30-Day Projection)
+![ML Forecast](images/screenshots/tab06_ml_forecast.png)
+
+### Risk Tiers
+![Risk Tiers](images/screenshots/tab07_risk_tiers.png)
+
+### Socioeconomic Context (World Bank x COVID JOIN)
+![Socioeconomic Context](images/screenshots/tab08_socioeconomic.png)
+
+### Data Quality & Fairness
+![Data Quality](images/screenshots/tab09_data_quality.png)
+
+### AI Insights
+![AI Insights](images/screenshots/tab10_ai_insights.png)
+
+---
+
 ## Dashboard Tabs
 
 | # | Tab | What It Shows | Key SQL / Feature |
@@ -170,10 +204,8 @@ See [VIDEO_SCRIPT.md](VIDEO_SCRIPT.md) for the exact 4-minute presentation flow 
 
 ## Team
 
-| Name | Role |
-|------|------|
-| [Name 1] | [Role] |
-| [Name 2] | [Role] |
+- **Rishabh Rohil**
+- **Ujjwal Bana**
 
 ---
 
