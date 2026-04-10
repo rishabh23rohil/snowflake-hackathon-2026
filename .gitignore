@@ -1,0 +1,9 @@
+# Backup folder (analytics track files)
+backup/
+
+# Debug files
+debug_output.txt
+
+# OS files
+.DS_Store
+.claude/
