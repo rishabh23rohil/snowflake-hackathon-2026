@@ -4,6 +4,10 @@ backup/
 # Debug files
 debug_output.txt
 
+# Video (too large for GitHub - upload to YouTube/Drive)
+*.mov
+*.mp4
+
 # OS files
 .DS_Store
 .claude/

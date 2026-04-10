@@ -198,7 +198,9 @@ snowflake/
 
 ## Video Demo
 
-See [VIDEO_SCRIPT.md](VIDEO_SCRIPT.md) for the exact 4-minute presentation flow with clicks and speech.
+[Watch the demo video](https://drive.google.com/file/d/1cK_BrJ8XTD4Fqf8DUE8WFoJS0KSAsQbQ/view?usp=sharing) | [Live App on Snowflake](https://app.snowflake.com/visknth/mkb56554/#/streamlit-apps/HACKATHON.DATA.BXV1TNY8FLY0L59Y)
+
+See [VIDEO_SCRIPT.md](VIDEO_SCRIPT.md) for the presentation script.
 
 ---
 
